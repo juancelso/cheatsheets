@@ -1,1 +1,1 @@
-#chancucos para cositas en ubuntu
+#chancucos para cositas en ubuntu s
